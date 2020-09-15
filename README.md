@@ -1,20 +1,19 @@
 **# Insurance cost prediction**
 
-######
 
-**##Overview**
+**## Overview**
 
-**##Repository Navigation**
+**## Repository Navigation**
 
-**##ReadME Navigation**
+**## ReadME Navigation**
 
-**##Data**
+**## Data**
 
-**##Modeling**
+**## Modeling**
 ******Features
 
-**##Results**
+**## Results**
 
-**##Future**
+**## Future**
 
-**##Project Info**
+**## Project Info**
