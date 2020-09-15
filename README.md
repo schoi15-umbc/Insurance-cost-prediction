@@ -12,7 +12,7 @@ The dataset is obtained from [Kaggle Medical Cost Personal Datasets](https://www
 objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9), Childresn (number of children covered by health insurance / Number of dependents), Smoker (Whether the beneficiary is a smoker or not), Region (the beneficiary's residential area in the US, northeast, southeast, southwest, northwest), and Charges (individual medical costs billed by health insurance).
 
 **## Modeling**
-******Features
+****** Features
 
 **## Results**
 
