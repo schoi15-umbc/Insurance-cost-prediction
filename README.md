@@ -4,7 +4,9 @@
 
 ## **ReadME Navigation**
 
+[Overview](https://github.com/schoi15-umbc/Insurance-cost-prediction##Overview)-
 [Data](https://github.com/schoi15-umbc/Insurance-cost-prediction##Data) -
+[Project Info](https://github.com/schoi15-umbc/Insurance-cost-prediction##Project-Info)
 
 
 ## **Overview**
