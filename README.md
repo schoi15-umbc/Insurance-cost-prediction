@@ -7,12 +7,12 @@ Code            :<a href=https://github.com/schoi15-umbc/Insurance-cost-predicti
 
 ## **ReadME Navigation**
 
-[Overview](https://github.com/schoi15-umbc/Insurance-cost-prediction##Overview)-
+[Summary](https://github.com/schoi15-umbc/Insurance-cost-prediction##Summary)-
 [Data](https://github.com/schoi15-umbc/Insurance-cost-prediction##Data) -
 [Project Info](https://github.com/schoi15-umbc/Insurance-cost-prediction##Project-Info)
 
 
-## **Overview**
+## **Summary**
 The dataset contains information for 1338 individuals with details about their age, sex, BMI, number of children, if they smoke or not, the region they live in, and the cost of medical insurance. The first six factors are the input for our research, and the charge is the output. The main goal of the study is predicting insruance cost using linear regression model, along with finding the factor that influnces the insurance cost the most. The three big steps for this project will be 1.Data cleaning 2.Finding Correlation and Visualization, and 3. Using Linear Regression Model. Through using various tools from pythong package, scikit-learn, seaborn, scipy, statesmodel, matplotlib, pandas, and numpy, we were able to find that smoking is the most influcential factor for medical insurance charge, followed by age, and then BMI. The Linear Regression Model was able to find a decent accuracy for our insrance cost prediction. However, using other algorithms such as Random Forest Regrssion may help find better accuracy in future studies. 
 
 ## **Data**
