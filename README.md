@@ -1,6 +1,9 @@
 # **Insurance cost prediction**
 
 ## **Repository Navigation**
+<pre>
+Code            :<a href=https://github.com/schoi15-umbc/Insurance-cost-prediction/blob/master/Notebooks/InsuranceCostPrediction.ipynb>Modeling Notebook </a>
+</pre>
 
 ## **ReadME Navigation**
 
