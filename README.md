@@ -18,11 +18,11 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 
 ## **Project Info**
 
-~~~
-Contributors : Sooyeon Choi
-~~~
+<pre>
+Contributors : <a href=https://github.com/schoi15-umbc>Sooyeon Choi</a>
+</pre>
 
-~~~
-Duration: September 2020
-Last update: 09.22.20
-~~~
+<pre>
+Duration     : September 2020
+Last Update  : 09.22.2020
+</pre>
